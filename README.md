@@ -16,8 +16,8 @@ let about = {
   age: 20,
   tech: [
    "Go",
+   "C"
    "SQL",
-   "Docker",
    "JavaScript",
    "Vue"
   ]

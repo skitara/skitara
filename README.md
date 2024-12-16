@@ -20,7 +20,6 @@ let about = {
     "JavaScript",
     "Vue"
   ],
-  isNinja: true,
   canHackAnything: true
 };
 

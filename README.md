@@ -18,7 +18,8 @@ let about = {
     "Go",
     "SQL",
     "JavaScript",
-    "Vue"
+    "Vue",
+    "Docker"
   ],
   canHackAnything: true
 };

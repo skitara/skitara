@@ -15,11 +15,10 @@ let about = {
   fullName: "Aleksej Osipenko",
   age: 20,
   tech: [
-    "Go",
-    "SQL",
-    "JavaScript",
-    "Vue",
-    "Docker"
+   "quantum engine",
+   "excel",
+   "time machine",
+   "go"
   ],
   canHackAnything: true
 };

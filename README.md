@@ -9,18 +9,4 @@
  ▄████████▀    ███   ▀█▀ █▀      ▄████▀     ███    █▀    ███    ███   ███    █▀  
                ▀                                         ███    ███              
 
-
-let about = {
-  major: "Go Backend Developer",
-  fullName: "Aleksej Osipenko",
-  age: 20,
-  tech: [
-   "quantum engine",
-   "excel",
-   "time machine",
-   "go"
-  ],
-  canHackAnything: true
-};
-
 ```
